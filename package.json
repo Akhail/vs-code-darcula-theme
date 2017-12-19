@@ -1,8 +1,8 @@
 {
 	"name": "darcula-theme-python",
 	"displayName": "Darcula python",
-	"description": "A fork of \"Darcula Theme inspired by IntelliJ\" for Python",
-	"version": "0.1.0",
+	"description": "A fork of \"Darcula Theme inspired by IntelliJ\" optimize for Python",
+	"version": "0.2.0",
 	"license": "MIT",
 	"publisher": "akhail",
 	"preview": true,

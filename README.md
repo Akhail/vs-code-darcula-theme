@@ -1,6 +1,6 @@
 # Dracula Theme
 
-Reworked darcula theme
+Reworked darcula theme with soft colors.
 
 ## License
 
