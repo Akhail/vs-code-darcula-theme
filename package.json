@@ -2,7 +2,7 @@
 	"name": "darcula-theme-python",
 	"displayName": "Darcula python",
 	"description": "A fork of \"Darcula Theme inspired by IntelliJ\" optimize for Python",
-	"version": "0.2.0",
+	"version": "0.2.1",
 	"license": "MIT",
 	"publisher": "akhail",
 	"preview": true,
@@ -21,7 +21,7 @@
 			{
 				"label": "Darcula Theme",
 				"uiTheme": "vs-dark",
-				"path": "./themes/dracula-color-theme.json"
+				"path": "./themes/darcula-color-theme.json"
 			}
 		]
 	}
